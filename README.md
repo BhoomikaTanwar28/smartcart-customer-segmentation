@@ -65,7 +65,6 @@ smartcart-customer-segmentation/
 ├── kmeans.pkl
 ├── ohe.pkl
 ├── README.md
-└── .gitignore
 ```
 
 ---
